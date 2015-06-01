@@ -1,1 +1,1 @@
-Explain what the upstream remote is usually used for, in your own words
+The upstream remote connects the local branch you are pushing to the remote one, so that when yyou use git commands such as git push or pull it will know keep the two in sync.  
